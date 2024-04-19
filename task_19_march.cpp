@@ -5,7 +5,7 @@ main()
     int num,i;
 	while(i=1) 
     {
-        printf("\n\nEnter a number of tebal: ");
+        printf("\n\nEnter a number of tabel: ");
         scanf("%d",&num);
 		for(i = 1; i <= 10; i++)
         {
